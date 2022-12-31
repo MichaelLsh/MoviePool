@@ -1,0 +1,10 @@
+Back-End API:
+
+the backend API is used to create movie reviews from the user
+
+API: a way for multiple computer programs to  communicate with each other 
+
+We use URL endpoints that can be used to interact with the database
+
+MongoDB Movie Review Username: MichaeLsh Password: Lsh20011018
+Connect MongoDB on VS Code using connect with Connection String

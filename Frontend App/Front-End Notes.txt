@@ -1,0 +1,9 @@
+Frontend App
+
+HTML for structuring the web page ->
+
+CSS for styling the web page ->
+
+JavaScript for coding functionalities:
+get search results based on user input search keywords from the API and display the search results on the web page.
+
